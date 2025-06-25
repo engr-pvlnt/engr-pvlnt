@@ -8,7 +8,7 @@ I'm a passionate **software developer** with a knack for creating innovative sol
 
 - **Languages:** JavaScript, Python, Java, PHP, C#, Visual Basic
 - **Frameworks & Libraries:** React, Node.js, Django, Flutter, Flask, Laravel, Codeigniter
-- **Tools & Platforms:** Git, Docker
+- **Tools & Platforms:** Git, Docker, VSCode, IntelliJ IDEA 2024.1
 - **Databases:** MySQL, MongoDB, PostgreSQL, Oracle, MSSQL
 
 ## 🚀 My Projects
