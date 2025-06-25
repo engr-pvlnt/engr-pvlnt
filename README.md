@@ -31,4 +31,4 @@ I once built a fully functional app in 24 hours, which taught me the importance 
 ⭐️ If you like my work, don't forget to give a star!
 
 <!-- Optional: Add some badges like GitHub stats or language stats -->
-![Your github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&count_private=true&theme=radical)
+![Your github stats](https://github-readme-stats.vercel.app/api?username=engr-pvlnt&show_icons=true&hide=prs&count_private=true&theme=radical)
