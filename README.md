@@ -21,6 +21,7 @@ My goal is to build reliable, scalable, and user-friendly software tailored to m
 
 - Email: p.velante@gmail.com
 - LinkedIn: [Visit Me on LinkedIn](https://www.linkedin.com/in/pv57/)
+- Facebook: [Visit Me on FaceBook](https://www.facebook.com/pbv57)
 
 ## 🔥 Fun Fact
 
